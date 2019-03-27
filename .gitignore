@@ -1,0 +1,13 @@
+.settings/
+bin/
+tmp/
+out/
+actual/
+*.class
+*.bak
+*.swp
+*.log
+.metadata
+
+.DS_Store
+Thumbs.db
